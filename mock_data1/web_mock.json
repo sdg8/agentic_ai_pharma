@@ -1,0 +1,20 @@
+[
+  {
+    "molecule": "molecule_x",
+    "source": "Guideline Summary",
+    "insight": "2024 respiratory guidelines indicate increasing interest in once-daily inhaled formulations.",
+    "url": "https://example.org/guidelines/respiratory-2024"
+  },
+  {
+    "molecule": "molecule_x",
+    "source": "Scientific Publication",
+    "insight": "Early-stage studies suggest anti-inflammatory potential in bronchiectasis.",
+    "url": "https://example.org/study/bronchiectasis-insights"
+  },
+  {
+    "molecule": "molecule_x",
+    "source": "News Article",
+    "insight": "Specialists report growing unmet need in chronic airway disease among adults.",
+    "url": "https://example.org/news/chronic-airway-demand"
+  }
+]
